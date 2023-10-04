@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: learnerharsh/node-todo-app1:latest
+    image: learnerharsh/node-todo-app
     ports:
-      - "8000:8000"
+      - "7000:7000"
